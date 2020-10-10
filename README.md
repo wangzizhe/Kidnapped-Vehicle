@@ -12,7 +12,7 @@ The job is to build out the methods in `particle_filter.cpp` until the simulator
 Success! Your particle filter passed!
 ```
 
-![img](.\sucess.png)
+![img](.\success.png)
 
 Here is a video of this project.
 
